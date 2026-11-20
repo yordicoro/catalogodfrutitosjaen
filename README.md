@@ -13,7 +13,9 @@ Sitio estático para consultar las bebidas y comidas de d'frutitos desde celular
 - `index.html`: estructura del catálogo y productos.
 - `menu.css`: estilos, paleta y diseño adaptable.
 - `menu.js`: navegación, búsqueda y vista de productos.
-- `logofrutitos.png` e `iso_logo.png`: recursos de marca usados en el sitio.
+- `logofrutitos.png` e `iso_logo.png`: recursos de marca usados en el encabezado.
+- `logofrutitos.jpeg`: versión JPEG del logotipo usada al pie de la carta.
+- El delivery se solicita por WhatsApp al `983 435 826`, durante el horario de atención mostrado en el encabezado.
 - `img/`: fotografías de los productos.
 
 ## Uso local
